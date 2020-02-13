@@ -17,7 +17,7 @@ description: Ara의 공부 블로그
 #baseurl: ""
 
 # --- Navigation bar options --- #
-avatar: "/img/git_logo.png"
+# avatar: "/img/git_logo.png"
 
 # List of links in the navigation bar
 navbar-links:
