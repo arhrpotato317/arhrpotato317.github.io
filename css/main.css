@@ -49,6 +49,9 @@ a:hover,
 a:focus {
   color: {{ site.hover-col }};
 }
+li {
+  padding-bottom: 5px;
+}
 blockquote {
   color: #808080;
   padding: 5px 15px;
