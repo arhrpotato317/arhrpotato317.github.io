@@ -47,7 +47,6 @@ a:focus {
 }
 blockquote {
   color: #808080;
-  font-style: italic;
 }
 blockquote p:first-child {
   margin-top: 0;
@@ -58,6 +57,9 @@ hr.small {
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
+}
+code, kbd, pre, samp {
+  font-family: 'Nanum Gothic', sans-serif;
 }
 
 .main-content {
@@ -696,7 +698,6 @@ pre {
   background-size: auto 3em;
   background-position-y: 10px;
   border: 1px solid rgba(0,0,0,0.1);
-  border-left: 7px solid #444;
 }
 .highlight > pre:not([class~="highlight"]) { /* code block with line number */
   padding: 0;
