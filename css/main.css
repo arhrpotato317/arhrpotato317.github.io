@@ -38,6 +38,9 @@ h3 {
 h4 {
   font-size: 19px;
 }
+h5 {
+  font-size: 15px;
+}
 article h4 {
   border-bottom: 1px solid #eee;
   padding-bottom: 10px;
